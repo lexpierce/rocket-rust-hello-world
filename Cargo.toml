@@ -1,5 +1,6 @@
 [package]
 name = "hello_world"
+edition = "2021"
 version = "0.0.0"
 publish = false
 
